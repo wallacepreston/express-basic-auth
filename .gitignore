@@ -1,0 +1,16 @@
+node_modules/
+.DS_Store
+.vscode
+.idea
+.env
+
+# production
+dist/
+build/
+
+# misc
+.parcel-cache
+.cache
+
+# sqlite
+*.sqlite
